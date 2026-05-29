@@ -194,32 +194,6 @@ medical-prescription-ocr/
 
 ```
 
-## 🤝 Contributing
-
-We welcome contributions!
-
-1. **Report a bug** – Open an issue with clear reproduction steps.
-2. **Suggest a feature** – Start a discussion describing the use-case.
-3. **Submit a PR** – Fork, create a feature branch, commit, and open a pull request.
-
-```bash
-# Fork & clone
-git clone https://github.com/YOUR_USERNAME/medical-prescription-ocr.git
-cd medical-prescription-ocr
-
-# Create & activate a virtual environment
-python -m venv venv
-source venv/bin/activate      # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Dev tools
-pip install black pytest jupyter
-
-```
-
-Before committing, run `black .` for formatting and ensure all tests pass with `pytest`.
 
 ---
 
