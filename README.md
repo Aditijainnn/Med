@@ -1,4 +1,4 @@
-# Medical Prescription OCR 🏥
+# Medical Prescription OCR 
 
 A transformer-based Optical Character Recognition (OCR) system for handwritten medical prescriptions, built on **NAVER Clova Donut** and enhanced with zero-shot document classification.
 
@@ -15,9 +15,7 @@ A transformer-based Optical Character Recognition (OCR) system for handwritten m
 7. [Training](#-training)
 8. [Tech Stack](#️-tech-stack)
 9. [Project Structure](#-project-structure)
-10. [Contributing](#-contributing)
-11. [License](#-license)
-12. [Acknowledgments](#-acknowledgments)
+10. [License](#-license)
 
 ---
 
